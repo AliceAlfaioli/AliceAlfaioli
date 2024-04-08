@@ -1,3 +1,4 @@
+![Screenshot 2024-04-08 233830](https://github.com/AliceAlfaioli/AliceAlfaioli/assets/156820194/4cc7cc37-f282-4ad3-8263-deff89387cd0)
 <h1 align="center">Hi 👋, I'm Alice Alfaioli</h1>
 <h3 align="center"> A passionate front-end developer dedicated to creating engaging and user-friendly web experiences but currently a student of Full-Stack Development. 🖥️</h3>
 <div> <a href="https://www.linkedin.com/in/Alice Alfaioli " target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
